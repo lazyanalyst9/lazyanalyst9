@@ -1,6 +1,6 @@
 Hi there! I'm Sai Sankalp Talluri 👋
 
-🚀** About Me** <br/>
+🚀About Me <br/>
 
 I'm a passionate Java Backend Developer with expertise in Spring Boot, MongoDB, AWS, and Data Analytics. I love building scalable and efficient backend solutions and diving deep into Data Structures & Algorithms. Currently, I am expanding my knowledge in Data Analytics and Machine Learning to leverage data-driven decision-making in software applications.<br/>
 
