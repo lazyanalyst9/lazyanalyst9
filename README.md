@@ -27,8 +27,8 @@ Languages & Tools: SQL | Python | Power BI | Tableau | Excel | AWS | Azure | Git
 Cloud & Databases: MySQL | PostgreSQL | SQL Server | AWS RDS | Azure SQL
 
 📫 Let's Connect
-💼 LinkedIn
-📬 Email: saisankalp847@gmail.com
+💼 LinkedIn          : linkedin.com/in/saisankalptalluri      
+📬 Email             : saisankalp847@gmail.com
 🌐 Portfolio/Projects: GitHub
 🌐 Portfolio         : https://saisankalptalluri-gt2zyty.gamma.site/
 
