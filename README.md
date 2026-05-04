@@ -30,6 +30,7 @@ Cloud & Databases: MySQL | PostgreSQL | SQL Server | AWS RDS | Azure SQL
 💼 LinkedIn
 📬 Email: saisankalp847@gmail.com
 🌐 Portfolio/Projects: GitHub
+🌐 Portfolio         : https://saisankalptalluri-gt2zyty.gamma.site/
 
 
 🤝 Let's Connect!<br/>
